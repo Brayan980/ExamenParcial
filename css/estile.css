@@ -1,0 +1,9 @@
+.contenedorgrid {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.contenedorgrid2 {
+    display: grid;
+    grid-template-columns: 40% 40% 20%;
+}
